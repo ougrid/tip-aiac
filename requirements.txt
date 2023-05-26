@@ -1,3 +1,4 @@
 tensorflow
 PyOpenGL
 opencv-python
+pillow
