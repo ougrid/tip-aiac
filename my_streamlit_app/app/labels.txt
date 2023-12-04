@@ -1,0 +1,4 @@
+0 Gypsum
+1 T-bar
+2 Wooden
+3 Coffered
